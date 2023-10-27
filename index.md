@@ -35,3 +35,8 @@ resultat=x+2
 resultat=resultat*2
 print("Quand x vaut "+repr(x)+", le résultat vaut " +repr(resultat)+" !")
 ```
+
+- [x] Faire le texte du diaporama
+- [x] Faire le diaporama
+- [ ] Finir l'oral
+- [ ] Rentrer pour jouer (à Armored Core)
